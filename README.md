@@ -1,6 +1,6 @@
 # Trx Payment with Next.js
 
-![Trx Payment](https://your-image-url.com/banner.png)
+![Trx Payment](https://github.com/ArmanPayandeh/trx-payment-next/blob/main/public/banner.png)
 
 ## 🚀 Project Overview
 **Trx Payment** is a TRX-based payment system built with **Next.js**, **Prisma**, and **tRPC**. It provides a fast and modern solution for secure and scalable blockchain transactions.

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="429"
+   height="82.45786744517189"
+   viewBox="0 -8 370 71.11750805294545"
+   class="looka-1j8o68f"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.88927739"
+     inkscape:cx="120.88467"
+     inkscape:cy="-110.20183"
+     inkscape:window-width="1280"
+     inkscape:window-height="650"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <defs
+     id="SvgjsDefs3079" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.2177px;font-family:Monospace;-inkscape-font-specification:'Monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.55656;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x="-1.3063873"
+     y="-349.85587"
+     id="text10"
+     transform="rotate(90)"><tspan
+       sodipodi:role="line"
+       id="tspan10"
+       x="-1.3063873"
+       y="-349.85587"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.2177px;font-family:Monospace;-inkscape-font-specification:'Monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.55656;stroke-dasharray:none;stroke-opacity:1" /><tspan
+       sodipodi:role="line"
+       x="-1.3063873"
+       y="-332.08371"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.2177px;font-family:Monospace;-inkscape-font-specification:'Monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1.55656;stroke-dasharray:none;stroke-opacity:1"
+       id="tspan1">Tesleum</tspan></text>
+  <path
+     d="M 70.284892,5.9147498 24.155659,-2.574951 48.428518,58.513278 82.255287,17.30103 Z M 69.540745,9.6594975 76.59816,16.364841 57.294293,19.861539 Z M 53.105454,19.157401 32.761381,2.286022 66.012039,8.4032455 Z M 51.657165,22.145998 48.340501,49.567488 30.45292,4.5584758 Z m 3.068614,1.452291 21.372279,-3.868776 -24.512908,29.869981 z"
+     fill="#eb0029"
+     id="path4"
+     style="stroke-width:0.0400081" />
+  <g
+     fill="#262729"
+     id="g3"
+     transform="matrix(0.09244634,0,0,0.09244634,70.393052,-197.02119)"
+     style="fill:#f9f9f9;fill-opacity:1">
+    <path
+       d="m 401.1,2302.1 h 64.5 v 421.8 H 401.1 Z M 228.4,2123.6 H 755 v 64.5 H 228.4 Z m 289.5,178.5 h 64.5 v 421.8 h -64.5 z m 1849.4,422.4 h 65.2 v -254.1 l -65.2,-72.5 z"
+       id="path1"
+       style="fill:#f9f9f9;fill-opacity:1" />
+    <path
+       d="m 2710.5,2123.6 v 470.9 L 2249.3,2082 v 642.5 h 65.2 v -471.3 l 461.3,512.7 v -642.3 z m -883.2,-0.4 c -165.7,0 -300.5,134.8 -300.5,300.5 0,165.7 134.8,300.5 300.5,300.5 165.7,0 300.5,-134.8 300.5,-300.5 0,-165.7 -134.8,-300.5 -300.5,-300.5 z m 0,536.2 c -130,0 -235.8,-105.7 -235.8,-235.8 0,-130.1 105.7,-235.8 235.8,-235.8 130.1,0 235.8,105.7 235.8,235.8 0,130.1 -105.8,235.8 -235.8,235.8 z"
+       id="path2"
+       style="fill:#f9f9f9;fill-opacity:1" />
+    <path
+       d="m 1827.3,2380.4 c -23.8,0 -43.3,19.5 -43.3,43.3 0,23.8 19.5,43.3 43.3,43.3 23.8,0 43.3,-19.5 43.3,-43.3 0,-23.8 -19.3,-43.3 -43.3,-43.3 z m -413.6,-72.6 c 0,-101.6 -82.1,-184.2 -183,-184.2 H 886.9 v 600.9 h 64.2 v -535.7 h 279.6 c 64.7,0 117.4,53.4 117.4,118.9 0,65.2 -52,118.4 -116.1,119.1 l -228.1,-0.1 v 297.7 h 64.2 v -232.5 h 150.4 l 122.8,232.5 h 74.5 l -128.2,-241.6 c 74.5,-24.5 126.1,-95.9 126.1,-175 z"
+       id="path3"
+       style="fill:#f9f9f9;fill-opacity:1" />
+  </g>
+</svg>

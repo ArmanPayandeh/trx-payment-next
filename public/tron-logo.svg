@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="tron-logo.svg"
+   inkscape:export-filename="trx.png"
+   inkscape:export-xdpi="768"
+   inkscape:export-ydpi="768"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.7734375"
+     inkscape:cx="12.405286"
+     inkscape:cy="48.493392"
+     inkscape:window-width="1280"
+     inkscape:window-height="650"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <linearGradient
+     gradientUnits="userSpaceOnUse"
+     x1="11.862"
+     y1="11.862"
+     x2="116.138"
+     y2="116.138"
+     id="linearGradient1">
+    <stop
+       offset="0"
+       stop-color="#ff060a"
+       id="stop1" />
+  </linearGradient>
+  <path
+     d="M87.5 128h-47C18.1 128 0 109.9 0 87.5v-47C0 18.1 18.1 0 40.5 0h47C109.9 0 128 18.1 128 40.5v47c0 22.4-18.1 40.5-40.5 40.5z"
+     fill="#ff060a"
+     id="path1"
+     style="fill:#eb0029;fill-opacity:1"
+     inkscape:label="path1" />
+  <path
+     d="M 85.150712,40.351935 27.22737,29.69163 57.706201,106.39862 100.18164,54.649406 Z m -0.934408,4.702191 8.861818,8.419734 -24.239386,4.39072 z m -20.63739,11.926281 -25.54555,-21.184973 41.75203,7.681249 z m -1.818583,3.75271 -4.164652,34.432487 -22.460995,-56.516703 z m 3.853184,1.823605 26.836644,-4.857924 -30.780254,37.506996 z"
+     fill="#eb0029"
+     id="path4"
+     style="stroke-width:0.0502371;fill:#ffffff"
+     inkscape:label="path4" />
+</svg>
